@@ -1,0 +1,14 @@
+div{
+    width: 150px;
+    height: 190px;
+    background-color:blue;
+    transform: translate(18px,18px);
+    transition:all 1s;
+    color: aliceblue;
+}
+div:hover{
+color: black;
+background-color: aqua;
+translate: 10px 20px;
+}
+
